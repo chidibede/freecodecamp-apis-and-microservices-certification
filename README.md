@@ -1,6 +1,7 @@
 # freecodecamp-apis-and-microservices-certification
 
 
+<<<<<<< HEAD
 # API Project: Timestamp Microservice for FCC
 
 ### User stories:
@@ -21,3 +22,5 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 
 #### Example output:
 * {"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}
+=======
+>>>>>>> 28067e3e237a400b219c30822014e8a45238817b
