@@ -1,5 +1,3 @@
-# freecodecamp-apis-and-microservices-certification
-
 
 # API Project: Timestamp Microservice for FCC
 
